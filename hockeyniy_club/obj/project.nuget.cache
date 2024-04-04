@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SNDeCLetG06yEXddf+3fJPBOpqG82ZddKKvFD1v6ZscxeSnfbwU8n9MA1uZR6WLN+/NKwWN8aGrfRvlif6mf5Q==",
+  "success": true,
+  "projectFilePath": "C:\\college\\технология разработки и защиты баз данных\\учебная практика\\hockeyniy_club\\hockeyniy_club\\hockeyniy_club.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egorm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\egorm\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\egorm\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

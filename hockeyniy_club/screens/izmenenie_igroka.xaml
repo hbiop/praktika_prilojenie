@@ -1,0 +1,43 @@
+﻿<Window x:Class="hockeyniy_club.screens.izmenenie_igroka"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:hockeyniy_club.screens"
+        mc:Ignorable="d"
+        Title="izmenenie_igroka" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="1" Grid.Column="0" Content="Имя"/>
+        <Label Grid.Row="2" Grid.Column="0" Content="Фамилия"/>
+        <Label Grid.Row="3" Grid.Column="0" Content="Отчество"/>
+        <Label Grid.Row="4" Grid.Column="0" Content="Номер игрока"/>
+        <Label Grid.Row="5" Grid.Column="0" Content="Дата рождения"/>
+        <Label Grid.Row="6" Grid.Column="0" Content="Позиция игрока"/>
+        <Label Grid.Row="7" Grid.Column="0" Content="Команда"/>
+        <TextBox x:Name="name" Grid.Row="1" Grid.Column="1"/>
+        <TextBox x:Name="familia" Grid.Row="2" Grid.Column="1"/>
+        <TextBox x:Name="otchestvo" Grid.Row="3" Grid.Column="1"/>
+        <TextBox x:Name="nomer" Grid.Row="4" Grid.Column="1"/>
+        <DatePicker Name="data" Grid.Row="5" Grid.Column="1" />
+        <ComboBox Name="pozicia" Grid.Row="6" Grid.Column="1"/>
+        <ComboBox Name="komanda" Grid.Row="7" Grid.Column="1"/>
+        <Button Content="Изменить" HorizontalAlignment="Left" Margin="60,10,0,0" Grid.Row="9" VerticalAlignment="Top" Width="210" Height="42" Click="Button_Change"/>
+
+    </Grid>
+</Window>

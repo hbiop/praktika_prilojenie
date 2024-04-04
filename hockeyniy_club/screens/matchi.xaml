@@ -1,0 +1,31 @@
+﻿<Window x:Class="hockeyniy_club.screens.matchi"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:hockeyniy_club.screens"
+        mc:Ignorable="d"
+        Title="matchi" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <ListView Name="myListView">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Дата проведения" DisplayMemberBinding="{Binding DataProvedenia}" />
+                    <GridViewColumn Header="Время начала" DisplayMemberBinding="{Binding VremiaNachala}" />
+                    <GridViewColumn Header="Времмя конца" DisplayMemberBinding="{Binding VremiaKonca}" />
+                    <GridViewColumn Header="Домашняя команда" DisplayMemberBinding="{Binding DomashnyaKomanda}" />
+                    <GridViewColumn Header="Команда соперника" DisplayMemberBinding="{Binding Sopernik}" />
+                    <GridViewColumn Header="Счёт домашней команды" DisplayMemberBinding="{Binding SchetDom}" />
+                    <GridViewColumn Header="Счёт соперника" DisplayMemberBinding="{Binding SchetSop}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Content="Удалить" HorizontalAlignment="Left" Margin="85,54,0,0" Grid.Row="1" VerticalAlignment="Top" Width="125" Height="30" Click="Button_Click"/>
+        <Button Content="Изменить" HorizontalAlignment="Left" Margin="545,56,0,0" Grid.Row="1" VerticalAlignment="Top" Width="120" Height="32" Click="Button_Click_1"/>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="305,137,0,0" Grid.Row="1" VerticalAlignment="Top" Width="150" Height="35" Click="Button_Click_2"/>
+    </Grid>
+</Window>

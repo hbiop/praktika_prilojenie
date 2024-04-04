@@ -1,0 +1,20 @@
+﻿hockeyniy_club
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\college\технология разработки и защиты баз данных\учебная практика\hockeyniy_club\hockeyniy_club\obj\Debug\net8.0-windows\
+hockeyniy_club
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\college\технология разработки и защиты баз данных\учебная практика\hockeyniy_club\hockeyniy_club\App.xaml
+91486834133
+
+151961931584
+201-1706830211
+MainWindow.xaml;screens\admin.xaml;screens\igrok.xaml;screens\izmenenie_igroka.xaml;screens\izmenenie_match.xaml;screens\matchi.xaml;screens\polzovatel.xaml;screens\spisok_igroki.xaml;screens\trener.xaml;
+
+True
+

@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\izmenenie_igroka.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\screens\\izmenenie_igroka.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\izmenenie_match.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\screens\\izmenenie_match.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\izmenenie_match.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\screens\\izmenenie_match.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\matchi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\screens\\matchi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\matchi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\screens\\matchi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\spisok_igroki.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\screens\\spisok_igroki.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\spisok_igroki.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\screens\\spisok_igroki.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\screens\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\igrok.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\screens\\igrok.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\screens\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\izmenenie_igroka.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\screens\\izmenenie_igroka.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\models\\igrok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\models\\igrok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\polzovatel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\screens\\polzovatel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\hockeyniy_club.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\hockeyniy_club.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\trener.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\screens\\trener.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\igrok.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\screens\\igrok.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|c:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{034935F4-E9CC-4A52-A305-49429DAC9CF5}|hockeyniy_club\\hockeyniy_club.csproj|solutionrelative:hockeyniy_club\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "matchi.xaml",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\matchi.xaml",
+              "RelativeDocumentMoniker": "hockeyniy_club\\screens\\matchi.xaml",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\matchi.xaml",
+              "RelativeToolTip": "hockeyniy_club\\screens\\matchi.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T23:37:47.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "matchi.xaml.cs",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\matchi.xaml.cs",
+              "RelativeDocumentMoniker": "hockeyniy_club\\screens\\matchi.xaml.cs",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\matchi.xaml.cs",
+              "RelativeToolTip": "hockeyniy_club\\screens\\matchi.xaml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAA8wEcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T23:39:54.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "izmenenie_match.xaml.cs",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\izmenenie_match.xaml.cs",
+              "RelativeDocumentMoniker": "hockeyniy_club\\screens\\izmenenie_match.xaml.cs",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\izmenenie_match.xaml.cs",
+              "RelativeToolTip": "hockeyniy_club\\screens\\izmenenie_match.xaml.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAcwEkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:27:51.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "izmenenie_match.xaml",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\izmenenie_match.xaml",
+              "RelativeDocumentMoniker": "hockeyniy_club\\screens\\izmenenie_match.xaml",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\izmenenie_match.xaml",
+              "RelativeToolTip": "hockeyniy_club\\screens\\izmenenie_match.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T00:14:12.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "izmenenie_igroka.xaml.cs",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\izmenenie_igroka.xaml.cs",
+              "RelativeDocumentMoniker": "hockeyniy_club\\screens\\izmenenie_igroka.xaml.cs",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\izmenenie_igroka.xaml.cs",
+              "RelativeToolTip": "hockeyniy_club\\screens\\izmenenie_igroka.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:19:53.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "spisok_igroki.xaml",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\spisok_igroki.xaml",
+              "RelativeDocumentMoniker": "hockeyniy_club\\screens\\spisok_igroki.xaml",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\spisok_igroki.xaml",
+              "RelativeToolTip": "hockeyniy_club\\screens\\spisok_igroki.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T18:15:34.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "spisok_igroki.xaml.cs",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\spisok_igroki.xaml.cs",
+              "RelativeDocumentMoniker": "hockeyniy_club\\screens\\spisok_igroki.xaml.cs",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\spisok_igroki.xaml.cs",
+              "RelativeToolTip": "hockeyniy_club\\screens\\spisok_igroki.xaml.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAuwGYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:37:34.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "admin.xaml",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\admin.xaml",
+              "RelativeDocumentMoniker": "hockeyniy_club\\screens\\admin.xaml",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\admin.xaml",
+              "RelativeToolTip": "hockeyniy_club\\screens\\admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T16:58:41.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "igrok.xaml.cs",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\igrok.xaml.cs",
+              "RelativeDocumentMoniker": "hockeyniy_club\\screens\\igrok.xaml.cs",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\igrok.xaml.cs",
+              "RelativeToolTip": "hockeyniy_club\\screens\\igrok.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:31:28.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "admin.xaml.cs",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\admin.xaml.cs",
+              "RelativeDocumentMoniker": "hockeyniy_club\\screens\\admin.xaml.cs",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\admin.xaml.cs",
+              "RelativeToolTip": "hockeyniy_club\\screens\\admin.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIAzwCUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:00:52.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "izmenenie_igroka.xaml",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\izmenenie_igroka.xaml",
+              "RelativeDocumentMoniker": "hockeyniy_club\\screens\\izmenenie_igroka.xaml",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\izmenenie_igroka.xaml",
+              "RelativeToolTip": "hockeyniy_club\\screens\\izmenenie_igroka.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T21:19:43.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "hockeyniy_club\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\MainWindow.xaml.cs",
+              "RelativeToolTip": "hockeyniy_club\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACEAAACxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:29:11.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "polzovatel.xaml",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\polzovatel.xaml",
+              "RelativeDocumentMoniker": "hockeyniy_club\\screens\\polzovatel.xaml",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\polzovatel.xaml",
+              "RelativeToolTip": "hockeyniy_club\\screens\\polzovatel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T17:55:16.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "igrok.cs",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\models\\igrok.cs",
+              "RelativeDocumentMoniker": "hockeyniy_club\\models\\igrok.cs",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\models\\igrok.cs",
+              "RelativeToolTip": "hockeyniy_club\\models\\igrok.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:29:41.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHMUAAAAAAAAAAApwIUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-03T19:21:20.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "trener.xaml",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\trener.xaml",
+              "RelativeDocumentMoniker": "hockeyniy_club\\screens\\trener.xaml",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\trener.xaml",
+              "RelativeToolTip": "hockeyniy_club\\screens\\trener.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T17:57:13.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\App.xaml",
+              "RelativeDocumentMoniker": "hockeyniy_club\\App.xaml",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\App.xaml",
+              "RelativeToolTip": "hockeyniy_club\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T17:00:51.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "igrok.xaml",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\igrok.xaml",
+              "RelativeDocumentMoniker": "hockeyniy_club\\screens\\igrok.xaml",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\screens\\igrok.xaml",
+              "RelativeToolTip": "hockeyniy_club\\screens\\igrok.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T17:57:01.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "hockeyniy_club",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\hockeyniy_club.csproj",
+              "RelativeDocumentMoniker": "hockeyniy_club\\hockeyniy_club.csproj",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\hockeyniy_club.csproj",
+              "RelativeToolTip": "hockeyniy_club\\hockeyniy_club.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T16:58:04.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1271524308:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "hockeyniy_club\\MainWindow.xaml",
+              "ToolTip": "C:\\college\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u044B \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\hockeyniy_club\\hockeyniy_club\\MainWindow.xaml",
+              "RelativeToolTip": "hockeyniy_club\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T16:29:15.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
